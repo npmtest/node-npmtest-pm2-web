@@ -166,7 +166,7 @@
 <tspan x="10" y="2618">  │   └── json-stringify-safe@5.0.1 </tspan>
 <tspan x="10" y="2634">  ├─┬ pwuid@1.1.1 </tspan>
 <tspan x="10" y="2650">  │ ├── bindings@1.2.1 </tspan>
-<tspan x="10" y="2666">  │ └── nan@2.6.1 </tspan>
+<tspan x="10" y="2666">  │ └── nan@2.6.2 </tspan>
 <tspan x="10" y="2682">  ├── semver@3.0.1 </tspan>
 <tspan x="10" y="2698">  ├── underscore.string@2.4.0 </tspan>
 <tspan x="10" y="2714">  ├─┬ wantsit@1.5.0 </tspan>
