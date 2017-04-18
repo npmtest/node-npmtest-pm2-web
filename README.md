@@ -1,7 +1,10 @@
-# test coverage for  [pm2-web (v2.1.3)](https://github.com/achingbrain/pm2-web)  [![npm package](https://img.shields.io/npm/v/npmtest-pm2-web.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-pm2-web) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-pm2-web.svg)](https://travis-ci.org/npmtest/node-npmtest-pm2-web)
+# npmtest-pm2-web
+
+#### test coverage for  [pm2-web (v2.1.3)](https://github.com/achingbrain/pm2-web)  [![npm package](https://img.shields.io/npm/v/npmtest-pm2-web.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-pm2-web) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-pm2-web.svg)](https://travis-ci.org/npmtest/node-npmtest-pm2-web)
+
 #### A web based monitor for PM2
 
-[![NPM](https://nodei.co/npm/pm2-web.png?downloads=true)](https://www.npmjs.com/package/pm2-web)
+[![NPM](https://nodei.co/npm/pm2-web.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/pm2-web)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-pm2-web/tree/alpha)|
 |--:|:--|
@@ -9,11 +12,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-pm2-web/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-pm2-web/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-pm2-web/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-pm2-web/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-pm2-web/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-pm2-web/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-pm2-web/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-pm2-web/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-pm2-web/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-pm2-web%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-pm2-web/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-pm2-web/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-pm2-web/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-pm2-web/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-pm2-web%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-pm2-web/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-pm2-web/build/test-report.html](https://npmtest.github.io/node-npmtest-pm2-web/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-pm2-web/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-pm2-web/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-pm2-web/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-pm2-web/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-pm2-web/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-pm2-web/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-pm2-web/build/screenCapture.npmPackageListing.svg)
 
@@ -84,8 +93,7 @@
     "main": "pm2-web.js",
     "maintainers": [
         {
-            "name": "achingbrain",
-            "email": "alex@achingbrain.net"
+            "name": "achingbrain"
         }
     ],
     "name": "pm2-web",
@@ -93,7 +101,6 @@
         "mdns2": "^2.1.0"
     },
     "preferGlobal": "true",
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/achingbrain/pm2-web.git"
