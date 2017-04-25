@@ -100,7 +100,7 @@
 <tspan x="10" y="1562">  │ │ └── statuses@1.2.1 </tspan>
 <tspan x="10" y="1578">  │ ├── utils-merge@1.0.0 </tspan>
 <tspan x="10" y="1594">  │ └── vary@1.0.1 </tspan>
-<tspan x="10" y="1610">  ├── html-entities@1.2.0 </tspan>
+<tspan x="10" y="1610">  ├── html-entities@1.2.1 </tspan>
 <tspan x="10" y="1626">  ├─┬ jade@1.11.0 </tspan>
 <tspan x="10" y="1642">  │ ├── character-parser@1.2.1 </tspan>
 <tspan x="10" y="1658">  │ ├─┬ clean-css@3.4.25 </tspan>
@@ -132,7 +132,7 @@
 <tspan x="10" y="2074">  │ │   ├─┬ cliui@2.1.0 </tspan>
 <tspan x="10" y="2090">  │ │   │ ├─┬ center-align@0.1.3 </tspan>
 <tspan x="10" y="2106">  │ │   │ │ ├─┬ align-text@0.1.4 </tspan>
-<tspan x="10" y="2122">  │ │   │ │ │ ├─┬ kind-of@3.1.0 </tspan>
+<tspan x="10" y="2122">  │ │   │ │ │ ├─┬ kind-of@3.2.0 </tspan>
 <tspan x="10" y="2138">  │ │   │ │ │ │ └── is-buffer@1.1.5 </tspan>
 <tspan x="10" y="2154">  │ │   │ │ │ ├── longest@1.0.1 </tspan>
 <tspan x="10" y="2170">  │ │   │ │ │ └── repeat-string@1.6.1 </tspan>
